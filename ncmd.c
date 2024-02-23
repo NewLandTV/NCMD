@@ -1,5 +1,5 @@
 /*
- * NewLand Command Prompt Poject v0.1.0 Dev
+ * NewLand Command Prompt Poject v0.1.1 Dev
  * Developer : JkhTV
  * My own command prompt.
  */
@@ -195,7 +195,7 @@ void LoadWeb(int argc, char** argv)
 void Help(int argc, char** argv)
 {
 	printf("LoadWeb : Loads the web by taking links from the web.txt file.\n");
-	printf("Help : Provides help information for Windows commands.\n");
+	printf("Help : Provides help information for NewLand commands.\n");
 	printf("Clear : Clears the screen.\n");
 	printf("Echo : Displays messages");
 }

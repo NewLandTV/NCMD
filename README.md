@@ -4,6 +4,15 @@ NewLand Command Prompt Project.
 
 New랜드 명령 프롬프트 프로젝트.
 
+# Commands(명령어)
+
+| Name | Description |
+|---|---|
+| LoadWeb |  Loads the web by taking links from the web.txt file. |
+| Help | Provides help information for NewLand commands. |
+| Clear | Clears the screen. |
+| Echo | Displays messages. |
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
